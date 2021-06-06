@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="fr_project_title"><![CDATA[Nouveau projet]]></data>
+
+
+
+  <data name="fr_pano375_title"><![CDATA[SallePrincipale1]]></data>
+  <data name="fr_spotpolygon401displaywebvideovideoid"><![CDATA[s82Gy6jnPw4]]></data>
+
+
+  <data name="fr_pano275_title"><![CDATA[Chapitre 1]]></data>
+
+
+  <data name="fr_pano278_title"><![CDATA[Chapitre 2]]></data>
+
+
+  <data name="fr_pano383_title"><![CDATA[Chapitre 3_1]]></data>
+
+
+
+
+
+
+  <data name="fr_buttontooltip"><![CDATA[]]></data>
+  <data name="fr_galleryplay_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallerynavprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallerynavnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_galleryfullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_galleryclose_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallerypicture_title0"><![CDATA[]]></data>
+  <data name="fr_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery1play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery1navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery1navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery1fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery1close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery1picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery1picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery2play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery2navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery2navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery2fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery2close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery2picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery2picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery3play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery3navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery3navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery3fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery3close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery3picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery3picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery4play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery4navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery4navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery4fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery4close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery4picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery4picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery5play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery5navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery5navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery5fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery5close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery5picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery5picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery6play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery6navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery6navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery6fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery6close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery6picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery6picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery7play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery7navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery7navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery7fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery7close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery7picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery7picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery8play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery8navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery8navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery8fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery8close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery8picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery8picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery9play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery9navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery9navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery9fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery9close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery9picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery9picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery10play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery10navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery10navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery10fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery10close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery10picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery10picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery11play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery11navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery11navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery11fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery11close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery11picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery11picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery12play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery12navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery12navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery12fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery12close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery12picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery12picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery13play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery13navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery13navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery13fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery13close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery14play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery14navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery14navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery14fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery14close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery14picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery14picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery15play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery15navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery15navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery15fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery15close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery15picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery15picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery16play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery16navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery16navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery16fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery16close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery16picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery16picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery17play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery17navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery17navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery17fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery17close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery17picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery17picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery18play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery18navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery18navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery18fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery18close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery18picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery18picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery19play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery19navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery19navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery19fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery19close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery19picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery19picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery20play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery20navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery20navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery20fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery20close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery20picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery20picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery21play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery21navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery21navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery21fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery21close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery21picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery21picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery22play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery22navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery22navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery22fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery22close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery22picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery22picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery23play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery23navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery23navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery23fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery23close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery23picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery23picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery24play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery24navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery24navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery24fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery24close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery24picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery24picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery25play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery25navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery25navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery25fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery25close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery25picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery25picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery26play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery26navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery26navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery26fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery26close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery26picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery26picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery27play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery27navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery27navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery27fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery27close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery27picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery27picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery28play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery28navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery28navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery28fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery28close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery28picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery28picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery29play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery29navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery29navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery29fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery29close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery29picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery29picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery30play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery30navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery30navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery30fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery30close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery30picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery30picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery31play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery31navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery31navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery31fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery31close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery31picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery31picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery32play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery32navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery32navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery32fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery32close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery32picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery32picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery33play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery33navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery33navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery33fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery33close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery33picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery33picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery34play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery34navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery34navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery34fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery34close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery34picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery34picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery35play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery35navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery35navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery35fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery35close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery35picture_title0"><![CDATA[]]></data>
+  <data name="fr_gallery35picture_caption0"><![CDATA[]]></data>
+  <data name="fr_controlBar_classiczoomInTip"><![CDATA[Zoom +]]></data>
+  <data name="fr_controlBar_classiczoomOutTip"><![CDATA[Zoom -]]></data>
+  <data name="fr_controlBar_classicmoveLeftTip"><![CDATA[Déplacement vers la gauche]]></data>
+  <data name="fr_controlBar_classicmoveRightTip"><![CDATA[Déplacement vers la droite]]></data>
+  <data name="fr_controlBar_classicopenFsTip"><![CDATA[Plein écran]]></data>
+  <data name="fr_controlBar_classiccloseFsTip"><![CDATA[Quitter le plein écran]]></data>
+  <data name="fr_controlBar_classicautorotateOnTip"><![CDATA[Démarrer l'Autorotation]]></data>
+  <data name="fr_controlBar_classicautorotateOffTip"><![CDATA[Arrêter l'Autorotation]]></data>
+  <data name="fr_controlBar_classicsoundsOnTip"><![CDATA[Démarrer les sons]]></data>
+  <data name="fr_controlBar_classicsoundsOffTip"><![CDATA[Arrêter les sons]]></data>
+  <data name="fr_controlBar_classicdisplayHelpTip"><![CDATA[Afficher l'écran d'aide]]></data>
+  <data name="fr_controlBar_classichideHelpTip"><![CDATA[Masquer l'écran d'aide]]></data>
+  <data name="fr_controlBar_classicdisplayControlsTip"><![CDATA[Afficher les contrôles]]></data>
+  <data name="fr_controlBar_classichideControlsTip"><![CDATA[Masquer les contrôles]]></data>
+  <data name="fr_controlBar_classicctrlmodeDragTip"><![CDATA[Changer le mode de navigation]]></data>
+  <data name="fr_controlBar_classicctrlmodeMoveTip"><![CDATA[Changer le mode de navigation]]></data>
+
+
+  <data name="fr_vr_setup_hmd0"><![CDATA[CHOIX DU HMD]]></data>
+  <data name="fr_vr_setup_advanced"><![CDATA[PARAMETRES AVANCES]]></data>
+  <data name="fr_vr_setup_title"><![CDATA[PARAMETRES WEB VR]]></data>
+  <data name="fr_vr_setup_dvn1"><![CDATA[Appareil:]]></data>
+  <data name="fr_vr_setup_siz1"><![CDATA[Taille de l&#39;écran:]]></data>
+  <data name="fr_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="fr_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="fr_vr_setup_hmd3"><![CDATA[Personnaliser]]></data>
+  <data name="fr_vr_setup_cal"><![CDATA[Calibrer le gyroscope]]></data>
+  <data name="fr_vr_setup_sav"><![CDATA[ENREGISTRER]]></data>
+  <data name="fr_vr_setup_rst"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="fr_vr_setup_cls"><![CDATA[FERMER]]></data>
+  <data name="fr_vr_setup_m31"><![CDATA[PARAMETRES DU HMD]]></data>
+  <data name="fr_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="fr_vr_setup_dst1"><![CDATA[Distorsion:]]></data>
+  <data name="fr_vr_setup_d2tx"><![CDATA[Distorsion 2:]]></data>
+  <data name="fr_vr_setup_vig1"><![CDATA[Vignettage:]]></data>
+  <data name="fr_vr_setup_cac1"><![CDATA[Aberration chromatique:]]></data>
+  <data name="fr_vr_setup_olp1"><![CDATA[Recouvrement:]]></data>
+  <data name="fr_vr_setup_m35"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="fr_vr_setup_cb2"><![CDATA[Placer l&#39;appareil sur une surface plane et stable[br]puis tapez sur CALIBRER[br]pour corriger la dérive du gyroscope.]]></data>
+  <data name="fr_vr_setup_cb3"><![CDATA[CALIBRER]]></data>
+  <data name="fr_vr_setup_cb4"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_cb5"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb6"><![CDATA[Calibration en cours...]]></data>
+  <data name="fr_vr_setup_cb7"><![CDATA[Calibration réussie]]></data>
+  <data name="fr_vr_setup_cb8"><![CDATA[Echec de la calibration]]></data>
+  <data name="fr_vr_setup_unavailable"><![CDATA[Le mode VR[br]n&#39;est pas disponible sur cet appareil]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>

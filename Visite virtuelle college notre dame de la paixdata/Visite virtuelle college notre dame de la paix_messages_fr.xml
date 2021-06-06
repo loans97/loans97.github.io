@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="fr_project_title"><![CDATA[Visite Virtuelle CNDP Erpent]]></data>
+
+
+  <data name="fr_panogroup153_title"><![CDATA[Liste des panoramas]]></data>
+
+  <data name="fr_pano180_title"><![CDATA[Parking]]></data>
+  <data name="fr_pano59_title"><![CDATA[Forum]]></data>
+  <data name="fr_pano14_title"><![CDATA[Kiosque d'acceuil]]></data>
+  <data name="fr_pano20_title"><![CDATA[Bibliotheque ]]></data>
+  <data name="fr_pano46_title"><![CDATA[Salle Audio]]></data>
+  <data name="fr_pano229_title"><![CDATA[Labo de sciences]]></data>
+  <data name="fr_pano54_title"><![CDATA[Local informatique]]></data>
+  <data name="fr_pano56_title"><![CDATA[Centre des 4èmes]]></data>
+  <data name="fr_pano208_title"><![CDATA[Labo de science TQ]]></data>
+  <data name="fr_pano178_title"><![CDATA[Chapelle]]></data>
+  <data name="fr_pano231_title"><![CDATA[Salle d'études]]></data>
+  <data name="fr_pano10_title"><![CDATA[Centre des 3èmes]]></data>
+  <data name="fr_pano44_title"><![CDATA[Terrains de basket]]></data>
+  <data name="fr_pano12_title"><![CDATA[Salle de sport]]></data>
+  <data name="fr_pano58_title"><![CDATA[Bâtiment des 1ères]]></data>
+  <data name="fr_pano50_title"><![CDATA[Baie des 1ères]]></data>
+  <data name="fr_pano206_title"><![CDATA[Classe de 1ère]]></data>
+
+
+
+
+
+
+  <data name="fr_controlBar_classiczoomInTip"><![CDATA[Zoom +]]></data>
+  <data name="fr_controlBar_classiczoomOutTip"><![CDATA[Zoom -]]></data>
+  <data name="fr_controlBar_classicmoveLeftTip"><![CDATA[Déplacement vers la gauche]]></data>
+  <data name="fr_controlBar_classicmoveRightTip"><![CDATA[Déplacement vers la droite]]></data>
+  <data name="fr_controlBar_classicmoveUpTip"><![CDATA[Déplacement vers le haut]]></data>
+  <data name="fr_controlBar_classicmoveDownTip"><![CDATA[Déplacement vers le bas]]></data>
+  <data name="fr_controlBar_classicautorotateOnTip"><![CDATA[Démarrer l'Autorotation]]></data>
+  <data name="fr_controlBar_classicautorotateOffTip"><![CDATA[Arrêter l'Autorotation]]></data>
+  <data name="fr_controlBar_classicsoundsOnTip"><![CDATA[Démarrer les sons]]></data>
+  <data name="fr_controlBar_classicsoundsOffTip"><![CDATA[Arrêter les sons]]></data>
+  <data name="fr_controlBar_classicdisplayControlsTip"><![CDATA[Afficher les contrôles]]></data>
+  <data name="fr_controlBar_classichideControlsTip"><![CDATA[Masquer les contrôles]]></data>
+  <data name="fr_logowebsiteurl"><![CDATA[https://www.cndp-erpent.be/]]></data>
+  <data name="fr_logotooltipText"><![CDATA[Ouvrir le site]]></data>
+  <data name="fr_buttonForASinglePanotooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePanopanoid1030"><![CDATA[pano20]]></data>
+  <data name="fr_buttonForASinglePanoonclick102647openurlwebsiteurl"><![CDATA[https://www.cndp-erpent.be/actualit%C3%A9/tournoi-eloquence-2020]]></data>
+  <data name="fr_buttonForASinglePano1tooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePano1panoid1020"><![CDATA[pano12]]></data>
+  <data name="fr_buttonForASinglePano1onclick102971openurlwebsiteurl"><![CDATA[https://www.cndp-erpent.be/actualit%C3%A9/actualit%C3%A9-projets]]></data>
+  <data name="fr_buttonForASinglePano2tooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePano2panoid1020"><![CDATA[pano58]]></data>
+  <data name="fr_buttonForASinglePano2onclick102827openurlwebsiteurl"><![CDATA[https://youtu.be/gzzXj_6gq0k]]></data>
+  <data name="fr_buttonForASinglePano3tooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePano3panoid1020"><![CDATA[pano50]]></data>
+  <data name="fr_buttonForASinglePano3onclick102196openurlwebsiteurl"><![CDATA[https://www.cndp-erpent.be/education/rem%C3%A9diations-et-aides]]></data>
+  <data name="fr_buttonForASinglePano4tooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePano4panoid1020"><![CDATA[pano206]]></data>
+  <data name="fr_buttonForASinglePano4onclick102895openurlwebsiteurl"><![CDATA[https://www.cndp-erpent.be/inscriptions]]></data>
+  <data name="fr_buttonForASinglePano5tooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePano5panoid1020"><![CDATA[pano231]]></data>
+  <data name="fr_buttonForASinglePano5onclick102469openurlwebsiteurl"><![CDATA[https://www.cndp-erpent.be/education/projet-personnel-de-lel%C3%A8ve]]></data>
+  <data name="fr_buttonForASinglePano6tooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePano6panoid1020"><![CDATA[pano178]]></data>
+  <data name="fr_buttonForASinglePano6onclick102570openurlwebsiteurl"><![CDATA[https://www.cndp-erpent.be/coll%C3%A8ge/animation-spirituelle]]></data>
+  <data name="fr_buttonForASinglePano7tooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePano7panoid1020"><![CDATA[pano208]]></data>
+  <data name="fr_buttonForASinglePano7onclick10241openurlwebsiteurl"><![CDATA[https://www.cndp-erpent.be/education/cours-et-options/3%C3%A8me-degr%C3%A9-tq]]></data>
+  <data name="fr_buttonForASinglePano8tooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePano8panoid1020"><![CDATA[pano229]]></data>
+  <data name="fr_buttonForASinglePano8onclick10297openurlwebsiteurl"><![CDATA[https://www.cndp-erpent.be/education/cours-et-options]]></data>
+  <data name="fr_buttonForASinglePano9tooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePano8panoid1020"><![CDATA[pano46]]></data>
+  <data name="fr_buttonForASinglePano9onclick10297openurlwebsiteurl"><![CDATA[https://www.cndp-erpent.be/actualit%C3%A9/pi%C3%A8ce-des-rh%C3%A9tos-2019]]></data>
+  <data name="fr_buttonForASinglePano10tooltip"><![CDATA[]]></data>
+  <data name="fr_buttonForASinglePano10panoid1020"><![CDATA[pano180]]></data>
+  <data name="fr_buttonForASinglePano10onclick102650openurlwebsiteurl"><![CDATA[https://www.cndp-erpent.be/contact]]></data>
+  <data name="fr_CirclesControlBardisplayHelpTip"><![CDATA[Montrer les aides]]></data>
+  <data name="fr_CirclesControlBarhideHelpTip"><![CDATA[Cacher les aide]]></data>
+  <data name="fr_prevnexttheme8prevSceneTip"><![CDATA[Panorama précédent]]></data>
+  <data name="fr_prevnexttheme8nextSceneTip"><![CDATA[Panorama suivant]]></data>
+  <data name="fr_CirclesControlBar1openFsTip"><![CDATA[Mode plein écran]]></data>
+  <data name="fr_CirclesControlBar1closeFsTip"><![CDATA[Mode fenêtré]]></data>
+
+
+  <data name="fr_vr_setup_hmd0"><![CDATA[CHOIX DU HMD]]></data>
+  <data name="fr_vr_setup_advanced"><![CDATA[PARAMETRES AVANCES]]></data>
+  <data name="fr_vr_setup_title"><![CDATA[PARAMETRES WEB VR]]></data>
+  <data name="fr_vr_setup_dvn1"><![CDATA[Appareil:]]></data>
+  <data name="fr_vr_setup_siz1"><![CDATA[Taille de l&#39;écran:]]></data>
+  <data name="fr_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="fr_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="fr_vr_setup_hmd3"><![CDATA[Personnaliser]]></data>
+  <data name="fr_vr_setup_cal"><![CDATA[Calibrer le gyroscope]]></data>
+  <data name="fr_vr_setup_sav"><![CDATA[ENREGISTRER]]></data>
+  <data name="fr_vr_setup_rst"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="fr_vr_setup_cls"><![CDATA[FERMER]]></data>
+  <data name="fr_vr_setup_m31"><![CDATA[PARAMETRES DU HMD]]></data>
+  <data name="fr_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="fr_vr_setup_dst1"><![CDATA[Distorsion:]]></data>
+  <data name="fr_vr_setup_d2tx"><![CDATA[Distorsion 2:]]></data>
+  <data name="fr_vr_setup_vig1"><![CDATA[Vignettage:]]></data>
+  <data name="fr_vr_setup_cac1"><![CDATA[Aberration chromatique:]]></data>
+  <data name="fr_vr_setup_olp1"><![CDATA[Recouvrement:]]></data>
+  <data name="fr_vr_setup_m35"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="fr_vr_setup_cb2"><![CDATA[Placer l&#39;appareil sur une surface plane et stable[br]puis tapez sur CALIBRER[br]pour corriger la dérive du gyroscope.]]></data>
+  <data name="fr_vr_setup_cb3"><![CDATA[CALIBRER]]></data>
+  <data name="fr_vr_setup_cb4"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_cb5"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb6"><![CDATA[Calibration en cours...]]></data>
+  <data name="fr_vr_setup_cb7"><![CDATA[Calibration réussie]]></data>
+  <data name="fr_vr_setup_cb8"><![CDATA[Echec de la calibration]]></data>
+  <data name="fr_vr_setup_unavailable"><![CDATA[Le mode VR[br]n&#39;est pas disponible sur cet appareil]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
